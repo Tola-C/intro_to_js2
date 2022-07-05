@@ -5,3 +5,7 @@ Build a basic arithmetic calculator without a frontend
  
 Submission Mode
 GitHub Url
+
+link to repo is https://github.com/Tola-C/intro_to_js2.git 
+link to pages is https://tola-c.github.io/intro_to_js2/
+
